@@ -1,2 +1,3 @@
 # The Tale of Git: A Journey Through the Repository
 In a bustling city called Codeville, a group of software developers worked on a grand project: the One App to Rule Them All. The team was led by Linus, a wise and resourceful developer who had grown weary of chaotic collaboration. He sought a tool that would bring order to the chaos, a tool that would track every change, preserve history, and empower teamwork.
+Linus created Git, a magical tool imbued with powerful abilities. The developers embraced it, and their journey through the repository began.
